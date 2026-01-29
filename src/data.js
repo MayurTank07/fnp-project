@@ -6,6 +6,8 @@ export const categories = [
   { id: "birthday", label: "Birthday Gifts" },
 ];
 
+
+
 export const products = [
   {
     id: 1,
